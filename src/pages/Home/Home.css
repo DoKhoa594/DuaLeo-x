@@ -1,0 +1,16 @@
+.home-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.home-title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #15803d; /* tương đương text-green-700 */
+  margin-bottom: 1rem;
+}
+
+.home-text {
+  font-size: 1.125rem;
+  color: #374151; /* tương đương text-gray-700 */
+}
