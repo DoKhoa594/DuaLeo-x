@@ -41,8 +41,8 @@
 }
 
 .info img {
-  width: 24px;
-  height: 24px;
+  width: 43px;
+  height: 30px;
 }
 
 .info strong {
@@ -66,4 +66,8 @@
   font-size: 14px;
   border-radius: 20px;
   cursor: pointer;
+}
+.info pic-po {
+  width: 43px;
+  height: 30px;
 }

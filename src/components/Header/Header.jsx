@@ -8,7 +8,7 @@ const Header = () => {
         <img src="./logo.png" alt="Logo" className="logo" />
 
         <div className="info">
-          <i class="fa-solid fa-truck"></i>
+          <img src="./polict.png" alt="truck" />
           <div>
             <strong>Miễn phí vận chuyển</strong>
             <p>Bán kính 100 km</p>
@@ -16,7 +16,7 @@ const Header = () => {
         </div>
 
         <div className="info">
-          <img src="/icons/email.png" alt="Email" />
+          <img src="./mail.png" alt="Email" />
           <div>
             <strong>Hỗ trợ 24/7</strong>
             <p>
@@ -26,7 +26,7 @@ const Header = () => {
         </div>
 
         <div className="info">
-          <img src="/icons/clock.png" alt="Clock" />
+          <img src="./clock.png" alt="Clock" />
           <div>
             <strong>Giờ làm việc</strong>
             <p>T2 - T7 Giờ hành chính</p>
