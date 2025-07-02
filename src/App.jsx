@@ -3,6 +3,7 @@ import TopBar from "./components/TopBar/TopBar";
 import Header from "./components/Header/Header";
 import NavBar from "./components/NavBar/NavBar";
 import Row from "./components/Row/Row";
+import Category from "./components/Category/CategorySection";
 import Home from "./pages/Home/Home";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import { GoContainer } from "react-icons/go";
@@ -14,6 +15,8 @@ function App() {
       <Header />
       <NavBar />
       <Row />
+      <Category />
+      <SectionBanner />
       <main className="flex-grow">
         <Routes>
           <Route path="/" element={<Home />} />
